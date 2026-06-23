@@ -1,0 +1,13 @@
+{
+  "task": "comfyui-polling-optimize",
+  "completed": "2026-06-22",
+  "changes": [
+    "SKILL.md: 每5秒固定轮询 → 步数估算智能轮询",
+    "流程图: 同步更新",
+    "公式: wait = steps × 1.2s × 70%, then poll every 2s, timeout max(est×2, 120s)"
+  ],
+  "files_changed": [
+    ".reasonix/skills/comfymuse/SKILL.md (line 461)",
+    "流程全图.md (line 138)"
+  ]
+}

@@ -1,0 +1,1 @@
+{"adaptation": "replaced hardcoded 5s polling with step-count estimation", "formula": "wait = steps * 1.2s * 0.7, then poll every 2s, timeout max(estimated*2, 120s)", "before": "\u6bcf5\u79d2\u8c03\u7528GET\u76f4\u5230\u5b8c\u6210", "after": "\u6309\u6b65\u6570\u4f30\u7b97\u7b49\u5f85\u65f6\u95f4\uff0c70%\u540e\u9996\u6b21\u67e5\u8be2\uff0c2s\u95f4\u9694"}
