@@ -7,7 +7,7 @@
   "entrypoint": "skill.md",
   "author": "",
   "license": "MIT",
-  "platforms": ["comfyui", "xiaoyunque", "jimeng", "google-imagen", "openai-dalle", "universal"],
+  "platforms": ["comfyui", "universal"],
   "capabilities": ["image-prompt-generation", "category-navigation", "memory-system"],
   "config": {
     "defaults": {
