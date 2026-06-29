@@ -4,24 +4,6 @@
 
 ---
 
-## 🚀 一键式傻瓜安装
-
-### 一句话搞定
-
-支持：Reasonix · Claude Code · Cursor · Gemini CLI · GitHub Copilot · Windsurf · Cline · Aider …
-
-直接复制下面这行话，丢给你的 AI Agent，就装好了：
-
-```
-强制重装这个项目，删除旧版本后重新安装最新版：https://github.com/Kepsilent/ComfyMuse
-```
-
-> ⚠️ 重要：AI 不得跳过安装流程，必须删除旧版本后重新下载覆盖。
-
-Agent 会自动读取 `skill.md` 执行。当前会话立刻生效。
-
----
-
 ## 📖 项目介绍
 
 ComfyMuse 是一个 AI 辅助的提示词生成引擎。你不需要学 prompt 语法，只需用自然语言描述想生成的画面（比如"一个女孩在教室"），它会引导你一步步完善细节，最终**直接调用 ComfyUI API 自动生图**，图片直接出现在你的对话目录。
