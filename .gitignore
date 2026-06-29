@@ -1,0 +1,25 @@
+# ComfyMuse .gitignore
+
+## Runtime-generated files (auto-created on first use)
+Config/
+Versions/
+Addons-SFW.md
+Addons-NSFW.md
+Workbench.md
+
+## Reasonix session metadata (local only, do not commit)
+.reasonix/
+
+## Windows
+Thumbs.db
+Desktop.ini
+
+## IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+## OS
+.DS_Store

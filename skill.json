@@ -4,7 +4,7 @@
   "description": "跨平台 AI 生图提示词生成引擎 —— 你说人话，它出提示词",
   "trigger": "/ComfyMuse",
   "naturalTriggers": ["生成图", "画图", "生成照片", "文生图", "AI画图", "帮我画", "生成一张", "画一张", "生成个图", "我想生成", "帮我生成图"],
-  "entrypoint": "Skill.md",
+  "entrypoint": "skill.md",
   "author": "",
   "license": "MIT",
   "platforms": ["comfyui", "xiaoyunque", "jimeng", "google-imagen", "openai-dalle", "universal"],
